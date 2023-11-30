@@ -1,4 +1,5 @@
-/** Add your relevant code here for the issue to reproduce */
+import styles from './styles.module.css'
+
 export default function Home() {
-  return null
+    return <section className={styles.container}>HELLO</section>
 }

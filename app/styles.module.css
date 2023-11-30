@@ -1,0 +1,5 @@
+@value blueColor from './values.module.css'
+
+.container {
+    color: blueColor;
+}
